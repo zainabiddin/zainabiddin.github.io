@@ -9,7 +9,3 @@ Hello! I'm an entrepreneur at heart and currently the founder and product manage
 This blog will be where I'll post my learnings on product management and entrepreneurship. 
 
 Feel free to get in touch with me on via email at zain@chillik.com
-
-
-
-
