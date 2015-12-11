@@ -17,7 +17,7 @@ baseurl: ""
 title: Zain Abiddin
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Zain Abiddin is an entrepreneur and product manager based in San Francisco. He is currently the founder of Chillik Media, a design led Software Agency. 
 
 # --- Navigation bar options --- #
 
@@ -29,7 +29,6 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
 
@@ -41,17 +40,17 @@ author:
   facebook: zainabiddin  # eg. daattali
   github: zainabiddin    # eg. daattali
   twitter: zainabiddin   # eg. daattali
-  linkedin: pub/zainabiddin  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+  linkedin: /in/zainabiddin  # eg. "pub/dean-attali/8/946/143"
+  stackoverflow: 3803890/zainabiddin  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
   twitter: true
   github: true
-  linkedin: false
+  linkedin: true
   stackoverflow: false
 
 # How to display the link to the website in the footer
