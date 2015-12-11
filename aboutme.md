@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About Zain
-subtitle: Why you'd want to go on a date with me
+subtitle: Entrepeneur | Product Manager
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! I'm an entrepreneur at heart and currently the founder and product manager of Chillik Media. A software agency that partners up with venture backed startups and helps them with strategy, design and software development. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This blog will be where I'll post my learnings on product management and entrepreneurship. 
 
-What else do you need?
+Feel free to get in touch with me on via email at zain@chillik.com
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
